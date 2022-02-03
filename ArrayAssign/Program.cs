@@ -109,7 +109,7 @@ namespace ArrayAssign
             }
         }
 
-        public Employee(int id = 1, string name = "noname", string email = "noemail", int salary = 0)
+        public Employee(int id = 1, string name = "noname", int salary = 0)
         {
             this.id = id;
             this.name = name;
